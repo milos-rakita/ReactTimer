@@ -3,10 +3,10 @@ var {Link,IndexLink} = require('react-router');
 
 var Nav = () => {
     return(
-        <div class="top-bar">
-            <div class="top-bar-left">
-              <ul class="menu">
-                <li class="menu-text">
+        <div className="top-bar">
+            <div className="top-bar-left">
+              <ul className="menu">
+                <li className="menu-text">
                     React Timer App
                 </li>
                 <li>
@@ -17,8 +17,8 @@ var Nav = () => {
                 </li>
               </ul>
             </div>
-            <div class="top-bar-right">
-              <ul class="menu">
+            <div className="top-bar-right">
+              <ul className="menu">
                 <li className="menu-text">
                     Created by 
                     <a href="http://www.mead.io" target="_blank">
