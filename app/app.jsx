@@ -5,8 +5,8 @@ var Main = require('main');
 var Timer = require('timer');
 var Countdown = require('countdown');
 
-//load foundation 
-require('style!css!foundation-sites/dist/foundation.min.css');
+// //load foundation 
+// require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation()
 
 //app css
